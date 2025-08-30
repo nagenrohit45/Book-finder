@@ -33,3 +33,6 @@ A simple React app to search for books using the **OpenLibrary API**.
 
 
 4.Open http://localhost:3000 in your browser.
+
+**CHATGPT CONVERSATION LINK**
+   https://chatgpt.com/share/68b2a0c1-a0f0-8006-b147-89e7d3d054cd
