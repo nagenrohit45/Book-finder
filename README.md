@@ -3,7 +3,7 @@
 A simple React app to search for books using the **OpenLibrary API**.
 
 ## 🚀 Live Demo
-[Click here to view](https://<your-codesandbox-live-link>)
+[Click here to view](https://codesandbox.io/p/sandbox/8krn99)
 
 ## ✨ Features
 - Search books by title
@@ -19,5 +19,5 @@ A simple React app to search for books using the **OpenLibrary API**.
 ## ▶️ Run locally
 1. Clone this repo:
    ```bash
-   git clone https://github.com/<your-username>/book-finder.git
+   git clone https://github.com/roy-nagendra/book-finder.git
    cd book-finder
