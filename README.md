@@ -21,3 +21,15 @@ A simple React app to search for books using the **OpenLibrary API**.
    ```bash
    git clone https://github.com/roy-nagendra/book-finder.git
    cd book-finder
+
+2.Install dependencies:
+
+   npm install
+
+
+3.Start the development server:
+
+   npm start
+
+
+4.Open http://localhost:3000 in your browser.
